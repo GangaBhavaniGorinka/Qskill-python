@@ -1,2 +1,6 @@
-# Qskill-python
+# Qskill-python # Task 1
 This task involves basic data analysis and visualization using Python. A student performance CSV dataset is analyzed using Pandas to compute average, minimum, and maximum marks. Visualizations such as bar charts, scatter plots, and heatmaps are created using Matplotlib and Seaborn to identify patterns and insights from the data.
+# Task 2
+In this task, a basic machine learning model is developed to predict house prices using Linear Regression. A small dataset containing features such as house area and number of rooms is used. The data is loaded using Pandas, preprocessed, and split into training and testing sets. A Linear Regression model from the Scikit-learn library is trained on the data and used to predict house prices. This task demonstrates the fundamentals of supervised learning and regression analysis in Python.
+#Task 3
+This task involves creating a Python program to perform basic matrix operations using the NumPy library. Two matrices are defined and operations such as addition, subtraction, multiplication, transpose, and determinant calculation are performed. The results of each operation are displayed in a clear and structured format. This task helps in understanding matrix manipulation and the use of NumPy for numerical computations.
